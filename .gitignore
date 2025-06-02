@@ -1,0 +1,14 @@
+
+
+# Node
+node_modules/
+.next/
+.env
+dist/
+build/
+out/
+
+
+# その他
+*.log
+.DS_Store
